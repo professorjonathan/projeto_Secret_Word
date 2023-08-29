@@ -47,3 +47,15 @@
     text-align: center;
     margin-right: 1em;
   }
+
+  @media screen and (max-width: 800px) {
+    .wordContainer {
+      max-width: 60vw;
+      max-height: 20vh;
+    }
+
+    .letter {
+     font-size: xx-large;
+     line-height: 3;
+    }
+  }
