@@ -1,3 +1,9 @@
+Projeto em React, Palavra Secreta, design responsivo web/mobile
+
+![image](https://github.com/professorjonathan/projeto_Secret_Word/assets/115835116/0faa2f5e-32c3-452d-9df0-ef0f9b19537c)
+![image](https://github.com/professorjonathan/projeto_Secret_Word/assets/115835116/4d1bbcaf-644d-4cbc-a23f-b92982dd0adb)
+![image](https://github.com/professorjonathan/projeto_Secret_Word/assets/115835116/96849052-990f-43e8-8c30-521396301708)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
